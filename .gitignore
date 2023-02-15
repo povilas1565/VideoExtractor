@@ -1,0 +1,5 @@
+/dist
+/build
+/.eggs
+/subsearch.egg-info
+.idea
