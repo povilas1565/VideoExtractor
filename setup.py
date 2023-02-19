@@ -48,7 +48,7 @@ def version_git():
 setup(
     name='VideoExtractor',
     version=version(),
-    url='https://github.com/povilas1565/VideoExtrCTOR',
+    url='https://github.com/povilas1565/VideoExtractor',
     # author, author_email
     description='extract parts of videos based on subtitle searches',
     long_description=readme(),
